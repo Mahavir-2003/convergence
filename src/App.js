@@ -7,6 +7,7 @@ import SponsorMarquee from './components/SponsorMarquee';
 import Details from './components/Details';
 import Contact from './components/Contact';
 import Collages from './components/Collages';
+import Event from './components/Event';
 
 
 function App() {
@@ -16,7 +17,8 @@ function App() {
       <Landing />
       <Collages />
       <About />
-      <Events />
+      {/* <Events /> */}
+      <Event />
       <SponsorMarquee />
       <Details />
       <Contact />

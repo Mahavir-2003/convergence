@@ -6,7 +6,8 @@ import {
     AccordionIcon,
     Box
 } from '@chakra-ui/react'
-import EventsData from "../Data/EventsData.js"
+
+const EventsData = [];
 
 const Events = () => {
     return (
