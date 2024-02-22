@@ -15,6 +15,7 @@ const teamData = [
     "team/14.jpg",
     "team/15.jpg",
     "team/16.jpg",
+    "team/25.jpg",
     "team/17.jpg",
     "team/24.jpg",
     "team/18.jpg",
