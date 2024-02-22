@@ -7,7 +7,7 @@ const Events = [
             {
                 subEventId: 1,
                 subEventName: 'CivilInfra@2047',
-                eventLogo: 'math/math.png',
+                eventLogo: 'sub/24.png',
                 eventDescription: 'The objective behind organisation of poster making competition is to bring out the creative expression of students and to develop a vision in the field of Infrastructure in India.',
                 eventRules: [
                     "Each group (maximum 2 participants) can post only one Poster that should be printed/drawn from the home.",
@@ -29,8 +29,8 @@ const Events = [
                 ],
                 facultyContact: [
                     {
-                        name: 'John Doe',
-                        contact: '1234567890'
+                        name: 'Prof. Mayur Shah',
+                        contact: '8866286933'
                     },
                 ],
                 pricePool: {
@@ -42,7 +42,7 @@ const Events = [
             {
                 subEventId: 2,
                 subEventName: 'Float the Boat',
-                eventLogo: 'sub/float_the_boat.png',
+                eventLogo: 'sub/11.png',
                 eventDescription: 'Participants have to build a Boat by using Paper, Wooden Ice cream stick and Fevicol Only. Material for the same will be provided by us on same day of competition. Maximum dimension of the Boat: Length = 25 cm; Width = 15 cm, height = 15 cm. Load will be applied laterally at the center of the boat. Model which carries maximum load without sinking will be declared as winner.',
                 eventRules: [
                     "Only boat has to be built.",
@@ -79,7 +79,7 @@ const Events = [
             {
                 subEventId: 3,
                 subEventName: 'Knowledge Knockout',
-                eventLogo: 'math/1536.png',
+                eventLogo: 'sub/7.JPG',
                 eventDescription: '"Knowledge Knockout is a technical quiz competition of Civil Engineering knowledge discipline and GK concerned with Civil Engineering Knowledge. Round 1: Correct me Correct me round will display images and will ask for the correct answer Round 2: Identify me Identify me round will display images and will ask for the correct identification."',
                 eventRules: [
                     "In each group, maximum 3 participants may be enrolled.",
@@ -111,7 +111,7 @@ const Events = [
             {
                 subEventId: 4,
                 subEventName: 'Cantilever Crane',
-                eventLogo: 'math/math.png',
+                eventLogo: 'sub/2.png',
                 eventDescription: '"1. Students had to participate in group of five.2. This event consist of preparing a  cantilever Crane structure with the provided number of wooden sticks with the accessories provided. Total Number of sticks provided: 100 max.3. The structure will be tested as per load carried by the structure and various other criteria. 4. The heavier the load carrying capacity, the winner will be decided accordingly."',
                 eventRules: [
                     "Students count should be 5.*T& C Apply",
@@ -154,7 +154,7 @@ const Events = [
             {
                 subEventId: 1,
                 subEventName: 'Word Wizard Wars',
-                eventLogo: 'math/math.png',
+                eventLogo: 'sub/23.jpeg',
                 eventDescription: "There will be four levels of competitions named word wizard wars. The topic of event is basic and general English language.",
                 eventRules: [
                     "1. Participants must not use Mobile phones or any other digital devices during the competition. ",
@@ -189,7 +189,7 @@ const Events = [
             {
                 subEventId: 2,
                 subEventName: 'Talk on Mathematics',
-                eventLogo: 'math/math.png',
+                eventLogo: 'sub/22.jpeg',
                 eventDescription: " The game is in a single round. Each team or each participant will get only one chance to present. Student must chose the topics from (1) History of Mathematics, (2) Conceptual topic of Mathematics, (3) Application of Mathematics in Engineering, (4) Contribution of Mathematician in Society. The results will be declared on the same day.",
                 eventRules: [
                     "1. Only first 20 students or team are allowed for this events.",
@@ -224,7 +224,7 @@ const Events = [
             {
                 subEventId: 3,
                 subEventName: 'MathQuizzerie ',
-                eventLogo: 'math/math.png',
+                eventLogo: 'sub/21.jpeg',
                 eventDescription: "The game is in two rounds: elimination and final. Stage I: Elimination round There will be a written test for all participating students.The written test will be of 20 minutes.Questions will check the mathematical ability of participating students.Top 10 students will be selected for final round based on points they have gained in written test. Stage II: Final roundIn Final round there are 3 sub rounds listed below.or Each question student have only 30 seconds in each round. For correct answer,the students will earn 10 points. In case of wrong answer, the team will lose 5 points.Students can pass the question. In case of passing, if any students answer the questioncorrectly will eligible to earn 5 points. In case of wrong answer, the students will lose 5points.There will be 2 rounds of asking questions to top 10 students.After these two rounds of asking questions, 5 students from top 10 will be eliminated. Rest of top 5 students will have to play buzzer round. For Each question student haveonly 30 secs. Winner will be decided at the same time when all the rounds get completed.",
                 eventRules: [
                     "1. It is an individual event.",
@@ -266,7 +266,7 @@ const Events = [
             {
                 subEventId: 1,
                 subEventName: 'POSTER PRESENTATION',
-                eventLogo: 'math/math.png',
+                eventLogo: 'sub/20.jpg',
                 eventDescription: 'Participants are free to choose and select any technical topic of their interest. Give first priority to the latest technologies. The size of the posters should be A1 sized (841*594 mm) sheet.',
                 eventRules: [
                     "Poster Size must be A1 size (841*594 mm) (33.1 x 23.4 in). You can use Paper or chart papers or any other materials as per requirements. You can print-out pictures but content should be written manually.",
@@ -307,7 +307,7 @@ const Events = [
             {
                 subEventId: 2,
                 subEventName: 'PAPER PRESENTATION',
-                eventLogo: 'math/math.png',
+                eventLogo: 'sub/40.png',
                 eventDescription: 'The paper presentation aims at giving a platform to young engineers to fuel their brains to ideate ideas that never existed. The event intends to encourage inventions, innovation, and research to promote their application for development in the computer and IT sectors of Engineering. Participants of this event are expected to prepare a paper about a real-life project topic or area and present it in front of experts.',
                 eventRules: [
                     "Each team consists of at most 2 members only.",
@@ -340,7 +340,7 @@ const Events = [
             {
                 subEventId: 31,
                 subEventName: 'PROJECT PRESENTATION',
-                eventLogo: 'math/math.png',
+                eventLogo: 'sub/1.jpeg',
                 eventDescription: 'The project work constitutes a major component in most of the professional programmers. In this “PROJECT PRESENTATION” event, the project should be related to the field of Computer science / Information Technology. Participants of this event are expected to demonstrate some real life projects. These projects may be carried out in some industry, research and development laboratories, educational institutions or software companies by the participant. It is suggested that the project is to be chosen which should have some direct relevance in day-to-day activities. Participants have to show the actual working of their project.  ',
                 eventRules: [
                     "Each team/member will be given 10-15 minutes to demonstrate their project work.",
@@ -372,7 +372,7 @@ const Events = [
             {
                 subEventId: 32,
                 subEventName: 'Code Connection',
-                eventLogo: 'math/math.png',
+                eventLogo: 'sub/36.png',
                 eventDescription: 'Code connection is the coding competition where the participants will need to code for the interesting real life problems.1. Code Connection is a two person team event, in which one can showtheir talent using C programming language. Code Connection looksfor the real star team that stands up to the ability of ACCURACY,SPEED &amp; LOGIC. Come take part2. in the Code Connection by showcasing coding skills in different rounds. You will get various challenges like: 3. Can you construct the program of given output as a team? 4. Can you construct the program of given output by shuffling the team member? For example, the first member has to code for the first half of the given time and for the remaining time the second member has to code.5. Can you reconstruct the code snippets to make a working program that produces the given output individually or by shuffling team members? 6. Can you construct the program of given problem definition by shuffling the team member?  ',
                 eventRules: [
                     " A group of two will form the participating team for the event.",
@@ -408,7 +408,7 @@ const Events = [
             {
                 subEventId: 33,
                 subEventName: 'WEBATHON',
-                eventLogo: 'math/math.png',
+                eventLogo: 'sub/31.jpg',
                 eventDescription: 'This event exposes your website design skills. Participant must have knowledge about CSS3, HTML5, JAVASCRIPT',
                 eventRules: [
                     "Round 1 (Elimination round) : In Round One there will be one quiz which is based on HTML, CSS, JavaScript and Bootstrap. After quiz there 15 groups will be shortlist. (Optional)",
@@ -432,7 +432,7 @@ const Events = [
                 facultyContact: [
                     {
                         name: 'Prof. Chirag gami ',
-                        contact: '9.01641367798243E+29'
+                        contact: '9824335549'
                     },
                 ],
                 pricePool: {
@@ -444,7 +444,7 @@ const Events = [
             {
                 subEventId: 34,
                 subEventName: 'CRYPT YOUR  MIND',
-                eventLogo: 'math/math.png',
+                eventLogo: 'sub/39.JPG',
                 eventDescription: 'CRYPT YOUR MIND” is a technical feast for techno and logical minds. In this event, students will start one offline game. Those who complete the game first will unlock the second round first. In round-2, Students need to solve Scrambled words. Round-3 is the elimination round.',
                 eventRules: [
                     "Round 1 (head start): Basic game like google chrome offline game",
@@ -473,7 +473,39 @@ const Events = [
                     third: '1000'
                 },
             },
-
+            {
+                "subEventId": 48,
+                "subEventName": "QUIZZARD",
+                "eventLogo": "sub/52.jpg",
+                "eventDescription": "Quizzard is a thrilling quiz competition for tech enthusiasts who want to test their knowledge and skills in engineering and technology in general The event consists of three rounds of challenging and fun questions, covering wide range of topics The participants will compete in teams of three, and the top three teams will advance to the final round, where they will face off in a buzzer round for the ultimate glory. Compete with others and complete the task before or within 1 minute. The tasks will be given on the spot which the participant have to complete in the given time span. Violation of the rule given will lead to disqualification. There can be multiple rounds depending on number of participants. ",
+                "eventRules": [
+                    "Rule 1 :- No electronic gadgets allowed",
+                    "Rule 2 :- No external materials like books allowed",
+                    "Rule 3 :- Dont ask help from outside the team",
+                ],
+                "cordinatorsContact": [
+                    {
+                        "name": "Nisarg Patel",
+                        "contact": "9426122547",
+                    },
+                    {
+                        "name": "Preet Shah",
+                        "contact": "7405398940",
+                    }
+                ],
+                "facultyContact": [
+                    {
+                        "name": "Bhavisha Suthar",
+                        "contact": "8735873646",
+                    }
+                ],
+                "pricePool": {
+                    "first": "3000",
+                    "second": "2000",
+                    "third": "1000"
+                },
+            },
+            
         ]
     },
     {
@@ -484,7 +516,7 @@ const Events = [
             {
                 subEventId: 24,
                 subEventName: 'Circuit assembly',
-                eventLogo: 'sub/math.png',
+                eventLogo: 'sub/4.jpeg',
                 eventDescription: 'Basic Electrical Circuit Making & Assembly ',
                 eventRules: [
                     "Rules & Regulations:",
@@ -520,7 +552,7 @@ const Events = [
             {
                 subEventId: 26,
                 subEventName: 'Think beyond',
-                eventLogo: 'math/math.png',
+                eventLogo: 'sub/13.jpg',
                 eventDescription: 'Updated soon ',
                 eventRules: [
                     "Idea must reflect the innovativeness and its feasibility of the project.",
@@ -556,7 +588,7 @@ const Events = [
             {
                 subEventId: 27,
                 subEventName: 'Projectron',
-                eventLogo: 'math/math.png',
+                eventLogo: 'sub/12.jpg',
                 eventDescription: 'Working model competition ',
                 eventRules: [
                     "Maximum three participants are allowed per team",
@@ -592,7 +624,7 @@ const Events = [
             {
                 subEventId: 30,
                 subEventName: 'Mind Spark',
-                eventLogo: 'math/math.png',
+                eventLogo: 'sub/32.jpeg',
                 eventDescription: 'This is the event where student will appear in a quiz, Group Discussion & Mock Interview  ',
                 eventRules: [
                     "Eligibility for Junior Electrical Engineer level: Student from diploma final year and B.Tech/B.E. Second year.",
@@ -640,7 +672,7 @@ const Events = [
             {
                 subEventId: 1,
                 subEventName: 'Boat Racing ',
-                eventLogo: 'math/math.png',
+                eventLogo: 'sub/46.jpg',
                 eventDescription: 'Complete your race without sinking your boat which may eliminate your boat.Round 1:-Place your RC boat in water track.Complete the path in minimum time.The obstacles will be minimum in the first round.First five participants will qualify for the round 2.Round 2:-The obstacles will much more in this round.The first three participants will be awarded.Complete your race in minimum time.',
                 eventRules: [
                     "This is the open contest and anyone can take part .",
@@ -684,7 +716,7 @@ const Events = [
             {
                 subEventId: 2,
                 subEventName: 'Ship Building ',
-                eventLogo: 'math/math.png',
+                eventLogo: 'sub/15.jpg',
                 eventDescription: 'Participants will be provided with all the materials required to build the ship.They will be guided by the co-ordinators.After the completion of the ship-building the ship would have to go through floating test.Every participant will be provided with certificate.Ship building will commence on 14th followed by floating test on 15th of oct 2022.All the ships will be judged without any partiality  by the judges.The decision of the judges would be final.There would be two rounds in this event.Every participating group would be charged a participation fees of 500/- rupees only.Participants has to bare an additional fee of 250/- rupees after the last date of registration i.e. 13/10/22.',
                 eventRules: [
                     "The registration must be done prior to the commencement of the event.",
@@ -723,8 +755,8 @@ const Events = [
 
             {
                 subEventId: 3,
-                subEventName: 'Paper Presentation ',
-                eventLogo: 'math/math.png',
+                subEventName: ' Technical Paper Presentation ',
+                eventLogo: 'sub/47.jpg',
                 eventDescription: 'Present a paper in any topic related to renewable & green energy.',
                 eventRules: [
                     "Participant should have to submit the word file & ppt file of paper 1 day before the event.",
@@ -755,8 +787,8 @@ const Events = [
             },
             {
                 subEventId: 4,
-                subEventName: 'Poster Presentation',
-                eventLogo: 'math/math.png',
+                subEventName: 'From Ideas to Images: Posterizing Perspective',
+                eventLogo: 'sub/48.jpg',
                 eventDescription: "Make a poster on A2 sheet.",
                 eventRules: [
                     "Make it on the spot."
@@ -768,7 +800,7 @@ const Events = [
                         contact: '8146045956'
                     },
                     {
-                        name: 'Anupal Dev',
+                        name: 'Anupal Deb',
                         contact: '7577809495'
                     },
                 ],
@@ -787,40 +819,9 @@ const Events = [
 
 
             {
-                subEventId: 5,
-                subEventName: 'Project Marino',
-                eventLogo: 'math/math.png',
-                eventDescription: "Make a working model & demonstrate it",
-                eventRules: [
-                    "Make it by hand, don't buy it from market."
-
-                ],
-                cordinatorsContact: [
-                    {
-                        name: 'Suryadev Singh ',
-                        contact: '9724107889'
-                    },
-                    {
-                        name: 'Ronak Rathore ',
-                        contact: '7096080967'
-                    },
-                ],
-                facultyContact: [
-                    {
-                        name: 'Hardik A Patel ',
-                        contact: '9106593769'
-                    },
-                ],
-                pricePool: {
-                    first: '2500',
-                    second: '2000',
-                    third: '1500'
-                },
-            },
-            {
                 subEventId: 25,
                 subEventName: 'Model Mania',
-                eventLogo: 'math/math.png',
+                eventLogo: 'sub/16.JPG',
                 eventDescription: 'Visible Examination - Judges will visual examine the model.Explanation - participants will be explain the working their respectively model Working test - participants have to show their model working ',
                 eventRules: [
                     "The model should be working.",
@@ -859,7 +860,7 @@ const Events = [
             {
                 "subEventId": 1,
                 "subEventName": "CAD clash",
-                "eventLogo": "sub/cad_clash.jpg",
+                "eventLogo": "sub/33.jpg",
                 "eventDescription": "C.A.D (Computer-aided design) competition where participants need to fulfill the needs of completing the model in part, assembly, and mechanism.",
                 "eventRules": [
                     "Each candidate will prepare a model using 'SolidWorks' or 'AutoCAD' software.",
@@ -896,7 +897,7 @@ const Events = [
             {
                 "subEventId": 2,
                 "subEventName": "AUTOMOBILE WORKSHOP",
-                "eventLogo": "sub/automobile_workshop.jpeg",
+                "eventLogo": "sub/5.jpeg",
                 "eventDescription": "Automobile Workshop is an event in which the participants will have hands-on training on technical maintenance activities of a vehicle like OBD Car Scanning, Wheel Balancing, Spark Plug testing, General Vehicle check-up, etc.",
                 "eventRules": [
                     "Follow workshop safety rules."
@@ -930,7 +931,7 @@ const Events = [
             {
                 "subEventId": 3,
                 "subEventName": "Treasure Hunt",
-                "eventLogo": "math/1536.png",
+                "eventLogo": "sub/14.jpg",
                 "eventDescription": "Gather your team of intrepid explorers and prepare to decode clues, solve puzzles, and navigate through a series of thrilling challenges scattered across the campus. From hidden corners to iconic landmarks, every clue brings you closer to uncovering the ultimate treasure.",
                 "eventRules": [
                     "Maximum 3 members in each team are allowed.",
@@ -968,7 +969,7 @@ const Events = [
             {
                 "subEventId": 39,
                 "subEventName": "Tech Quiz",
-                "eventLogo": "math/1536.png",
+                "eventLogo": "sub/6.png",
                 "eventDescription": "A technical quiz is a type of quiz that focuses on testing knowledge and understanding of technical subjects, such as science, technology, and engineering fields. It may include questions related to concepts, theories, and problem-solving techniques.",
                 "eventRules": [
                     "Based on Rounds",
@@ -997,8 +998,8 @@ const Events = [
             },
             {
                 "subEventId": 41,
-                "subEventName": "Mechatronics Engineering",
-                "eventLogo": "math/1536.png",
+                "subEventName": "Aeromodelling Competition ",
+                "eventLogo": "sub/34.jpg",
                 "eventDescription": "This event is for students proficient in Mechatronics Engineering.",
                 "eventRules": [
                     "Only existing students of any Diploma or B.Tech. course may participate in this competition.",
@@ -1040,7 +1041,7 @@ const Events = [
             {
                 "subEventId": 42,
                 "subEventName": "Project Presentation",
-                "eventLogo": "sub/project_presentation.jpeg",
+                "eventLogo": "sub/1.jpeg",
                 "eventDescription": "Project Presentation for students in Mechanical Mechatronics.",
                 "eventRules": [
                     "Poster/banner should be of 3ft by 3ft in size and it should contain the following topics:",
@@ -1077,7 +1078,7 @@ const Events = [
             {
                 "subEventId": 45,
                 "subEventName": "PRINT FUSION 2K24",
-                "eventLogo": "math/1536.png",
+                "eventLogo": "sub/19.png",
                 "eventDescription": "Additive Manufacturing - Awareness & Industrial Application",
                 "eventRules": [
                     "Workshop - Need to Attend by full Presence of Mind"
@@ -1103,18 +1104,191 @@ const Events = [
                     "second": "1000",
                     "third": "500"
                 },
-            }
+            },
+            {
+                "subEventId": 49,
+                "subEventName": "CAPTURE-MANIA",
+                "eventLogo": "sub/51.jpg",
+                "eventDescription": `To explore the creative side of our students, GUNI brings you the most exciting Competition of this year, CAPTURE-MANIA ,with the themes: 1)"Candid Moments Of Students" for photography 
+                2)"Chaos Of Convergence" for Reel making
+                In this digital era, Photography and Reels have undoubtedly become a medium for the younger generation to exhibit their creativity and bring in the finest trends on social media.
+                So, we have decided to utilize this expressive platform and celebrate the creativity of our students together.`,
+                "eventRules": [
+                    "Rules For Photography:",
+                    "1) Photos should be captured inside the campus during the event.",
+                    "2) Size of photo should not exceed 15MB.",
+                   " 3) Photos should be captured on smart phone only",
+                    "4) Use of filters can lead you to disqualification. and the photos should not be overedited.",
+                    "5) A participant can upload maximum 3 images ",
+                    "6) Each Participant will accept only one entry, and a second entry will lead to disqualification.",
+                    "7) Rename your photos as shown in example below" ,
+                    "Eg:- photo_your full name_number of photo (Ex:- photo_jay_modhavadiya_2)",
+                    "8) A photo must convey a story",
+                    "Rules for Reel making:",
+                   " 1) Reel should be captured inside the campus during the event.",
+                   " 2) Maximum duration of reel can be 60 seconds. And size of reel cannot exceed 300MB",
+                    "3) As per Reel format, the video should be made vertically and not horizontally.",
+                   " 4) The reel must be an original creation. You can only be inspired by existing trends online. Plagiarized content lead to disqualification.",
+                    "5) Any offensive, name-calling, derogatory remarks, and/or regional slang towards any person or community should not be used.",
+                    "6) Individual, as well as group entries (not more than 2 people), are allowed.",
+                    "7) Each Participant will accept only one entry, and a second entry will lead to disqualification.",
+                    "8) A participant can upload only 1 Reel",
+                ],
+             "cordinatorsContact": [
+                    {
+                        "name": "Modhavadiya Jay Laxmanbhai",
+                        "contact": "9377050503",
+                    },
+                    {
+                        "name": "Bakaraniya Meet Hiteshbhai",
+                        "contact": "9104456453",
+                    }
+                ],
+                "facultyContact": [
+                    {
+                        "name": "Bhavisha Suthar",
+                        "contact": "8735873646",
+                    }
+                ],
+                "pricePool": {
+                    "first": "3000",
+                    "second": "2000",
+                    "third": "1000"
+                },
+            },
+            {
+                "subEventId": 50,
+                "subEventName": "ROBOWAR",
+                "eventLogo": "sub/50.jpg",
+                "eventDescription": "Robo-wars is a major combat robotics event that focuses on designing and manufacturing robots made to annihilate their opponents and keep themselves as safe as possible. The winner is decided based on the destruction it has caused to its opponents. It will have two category 1.5Kgs and 3Kgs. ",
+                "eventRules": [
+                    "The bot should not exceed its category weight including the pneumatic/hydraulic (the components of the bot which will be out of the arena do not count in this weight).",
+                    "Robots must be wireless.",
+                    "Robots having external batteries are not allowed.",
+                    "Battery voltage may not exceed 48 volts for all categories.",
+                    "At all times, the external device used to control the robot, or any external tank is not included in the size constraint.",
+                    "Bots can have zero ground clearance provided they do not damage the arena.",
+                    "Robots can have any kind of cutters, flippers, saws, lifting devices, spinning hammers, Spinning drums, etc. as weapons.",
+                    "Following weapons or attacking systems are not permitted:",
+                    "Liquid projectiles and tethered or untethered projectiles.",
+                    "Any kind of inflammable liquid.",
+                    "Flamethrower on bots as attacking is not allowed",
+                    "Any kind of explosive or intentionally ignited solid or potentially ignitable solid.",
+                    "Nets, tape, glue, chains, or any other entanglement device.",
+                    "High-power magnets or electromagnets.",
+                    "Radio jamming, lasers, tesla coils, or any other high-voltage device.",
+                    "Spinning weapons that do not come in contact with the arena at any point in time are Allowed.",
+                    "In any case, the arena should not be damaged by any bot.",
+                    "A team can have a maximum of 3 participants may be of the same or different colleges. But one participant cannot participate simultaneously in 2 or more teams.",
+                ],
+             "cordinatorsContact": [
+                    {
+                        "name": "Akash gondaliya",
+                        "contact": "6355014913",
+                    },
+                    {
+                        "name": "Sarthak joshi",
+                        "contact": "9370474855",
+                    }
+                ],
+                "facultyContact": [
+                    {
+                        "name": "Prof. J. K. Prajapati",
+                        "contact": "6355959545",
+                    }
+                ],
+                "pricePool": {
+                    "first": "3000",
+                    "second": "2000",
+                    "third": "1000"
+                },
+            },
+            {
+                "subEventId": 51,
+                "subEventName": "Stumble Bots",
+                "eventLogo": "sub/49.jpg",
+                "eventDescription": "The Stumble Bots is a thrilling competition where robotic creatures, navigate an obstacle-laden track. These agiles showcase speed, agility, and precision as they dash, dodge, and leap through challenging terrain. Spectators cheer as these mechanical marvels race toward the finish line in an electrifying display of technology.",
+                "eventRules": [
+                    "Task:",
+                    "Design a robot either wired or wireless within the specified dimensions that can operated manually and can travel through all turns of the track. The robot that will complete the challenges in least time will be the winner. Think your robot can overcome any obstacle-big or small in the least possible time",
+                    
+                    "Robot Specifications:",
+                    "The maximum dimension of the robot can be 30 cm x 30cm x20 cm (l x b x h).",
+                    "The robot may be wired or wireless.",
+                    "The length of the wire (for wired bots) should be long enough to cover the whole track and wire should remain slack during the complete run.",
+                    "Maximum weight must not exceed 5 kg.",
+                    "The participants will be provided with 220 Volts, 50Hzstandard AC supply. Participants will have to themselves arrange for adaptor or batteries.",
+                    "The machine must not be made from Lego parts, or any ready-made kit, if we find such machine it will be disqualified.",
+                    
+                    "BATTERIES & POWER:",
+                    "The machine must be powered electrically only. Use of IC engine is not allowed.", 
+                    "Batteries must be sealed, immobilized electrolyte type (gel cell, lithium, NiCad, or dry cells).",
+                    "The electric voltage anywhere in the machine should not be more then 12V DC at any point of time.", 
+             
+                    "GENERAL RULES:",
+                    "This is stumbling event so fastest and most balanced robot will win.",
+                    "Robot should be as per the given specifications.",
+                    "Each team can have maximum three members. Students from different institutes can form a team.",
+                    "Each member of the team must contain the identity card of his/her respected institute.",
+                    "The robot should not damage the arena.", 
+                    "No test practice will be allowed on the arena.", 
+                    "The robot must not leave behind any of its parts during the run; else it will result in disqualification",
+                    "Unethical behavior could lead to disqualification. Faculty co-ordinators have all the rights to take final decision for any matter during the event.", 
+                    "Judge's decision will be considered final.", 
+                    "Certificates of Participation will be given to all the teams that will participate in the event, but not to the teams which get disqualified due to disobeying any of the competition rules.", 
+                    "Co–ordination committee reserves the right to add or update any rule before start of the event.",
+                    
+                    "TRACK SPECIFICATION:",
+                    "The track surface and course line may have unevenness.", 
+                    "There will be certain obstacles in the race track which will try to slow down the robot.",
+                    "Arena will consist of mud, slippery surfaces, bumps etc.",
+                    
+                    "GAME RULES:",
+                    "The competition is based on time trail system.",
+                    "The top team from qualifying round makes it to the next round on basis of time trials.", 
+                    "There will be three rounds, with the track getting harder in each round.",		
+                    "Wires should remain slack during the course of the run. Pulling the wire to aid the robot in traversing may lead to disqualification.",
+                    "If any of the robots starts off before start up call, the counter would be restarted and the machines will get a second chance. If repeated again then team will be disqualified.",
+                    "Your robot must be ready when call is made for your team.",
+                    "Team members will be allowed only three times to touch or reset their robots position during the run. However,this will lead to a time penalty and timer will not stop during this course of action.",
+                    "Machine must not contain any readymade kits, pneumatic &hydraulic systems, IC engines.",
+                    "Decision about your robot will be taken by the organizers.",
+                    "No team will get a second chance after completing the track with poor score.",
+                    
+                ],
+                "cordinatorsContact": [
+                    {
+                        "name": "Meet Gandhi",
+                        "contact": "8460039293",
+                    },
+                    {
+                        "name": "Dharmil Barot",
+                        "contact": "8141243569",
+                    }
+                ],
+                "facultyContact": [
+                    {
+                        "name": "Prof. M. K. Trivedi",
+                        "contact": "9687485583",
+                    }
+                ],
+                "pricePool": {
+                    "first": "3000",
+                    "second": "2000",
+                    "third": "1000"
+                },
+            },
         ]
     },
     {
         EventId: 7,
         EventName: 'PetroX',
-        MajorEventLogo: 'petrox.jpg',
+        MajorEventLogo: 'petrox.png',
         subEvents: [
             {
                 subEventId: 21,
                 subEventName: 'Chem-E-Car',
-                eventLogo: 'math/math.png',
+                eventLogo: 'sub/8.png',
                 eventDescription: 'This Event is based on Chemical Driven Innovative car ',
                 eventRules: [
                     "Students should not use any kind of battery for running the car. The only energy source for the car to move is a chemical reaction.", "Students should not use hazardous chemicals.",
@@ -1145,7 +1319,7 @@ const Events = [
             {
                 subEventId: 22,
                 subEventName: 'Technical Poster Making Competition',
-                eventLogo: 'math/math.png',
+                eventLogo: 'sub/25.png',
                 eventDescription: 'The objective of the event to sensitize and aware everyone very critical issues related to the health, safety and environment and related latest developments   ',
                 eventRules: [
                     "Time allotted: One hour",
@@ -1179,7 +1353,7 @@ const Events = [
             {
                 subEventId: 23,
                 subEventName: 'WASTE-O-INDUSTRY MODEL',
-                eventLogo: 'math/math.png',
+                eventLogo: 'sub/45.jpg',
                 eventDescription: 'This event is based on to make an industrial model with use of waste materials ',
                 eventRules: [
                     "The student will give the 1.5 Hr. for making their industrial model",
@@ -1207,6 +1381,39 @@ const Events = [
                     third: '1500'
                 },
             },
+            {
+                "subEventId": 46,
+                "subEventName": "Bingo",
+                "eventLogo": "sub/53.jpg",
+                "eventDescription": "A team of 10 will be formed and numbers will be called out of the team who so ever calls out 1 becomes the winner of the team winners of all teams will be played at the end the first from that is the winner and next becomes runner-up. ",
+                "eventRules": [
+                    "Obey rules", 
+                    "Be clear and polite", 
+                    "The coordinators hold right to disqualify the participant at any point of time.",
+                ],
+                "cordinatorsContact": [
+                    {
+                        "name": "Patel Karan Sureshbhai",
+                        "contact": "9016350020",
+                    },
+                    {
+                        "name": "Patel Smith Alpeshkumar",
+                        "contact": "9316612722",
+                    }
+                ],
+                "facultyContact": [
+                    {
+                        "name": "Dr. Anvita Sharma",
+                        "contact": "8511103370",
+                    }
+                ],
+                "pricePool": {
+                    "first": "3000",
+                    "second": "2000",
+                    "third": "1000"
+                },
+            },
+            
         ]
     },
     {
@@ -1217,7 +1424,7 @@ const Events = [
             {
                 subEventId: 1,
                 subEventName: 'Poster Presentation',
-                eventLogo: 'math/math.png',
+                eventLogo: 'sub/26.png',
                 eventDescription: "Join us for an immersive exploration into the cutting-edge advancements in biomedical and biotechnology research shaping the future of healthcare. Our poster presentation event offers a platform for students and scholars to showcase their latest findings, breakthroughs, and innovations in these dynamic fields.",
                 eventRules: [
                     "1.	Each participant or group is permitted to display only one poster.",
@@ -1258,7 +1465,7 @@ const Events = [
             {
                 subEventId: 2,
                 subEventName: 'Jugaad Bio Art',
-                eventLogo: 'math/math.png',
+                eventLogo: 'sub/9.jpeg',
                 eventDescription: "'Recycling things is like magic that turns ordinary things into extraordinary'. The event is based upon the creativity and innovation. The aim is to get maximum practical benefits from products and to generate the minimum amount of waste. The Jugaad Bio Art simply means to make or to create innovative and attractive things from the material we do not use anymore and relevant to the  biotechnica event.",
                 eventRules: [
                     "The one group must not exceed more than 3 students. Students ideas should not get repeated again and again. Students will get maximum 2 hours for the preparation of their technical model."
@@ -1293,7 +1500,7 @@ const Events = [
             {
                 subEventId: 28,
                 subEventName: 'Quizophile',
-                eventLogo: 'math/math.png',
+                eventLogo: 'sub/43.png',
                 eventDescription: 'There will be a quiz competition between participants based on technical area, current affairs etc. It will be having 4 rounds of the quiz consist of different formats like rapid fire round , Buzzer round, audio &visual round and general around.  ',
                 eventRules: [
                     "On the immediate completion of a question, each team gets 5 seconds to answer it. If a team is not able to answer a question, they can pass it for the next question. There is no team discussion in this round. 10 points is awarded for the correct answer.",
@@ -1322,40 +1529,11 @@ const Events = [
                     third: '1500'
                 },
             },
-            {
-                subEventId: 29,
-                subEventName: 'Food Fiesta',
-                eventLogo: 'math/math.png',
-                eventDescription: 'Food fiesta is both food competition and show event. ',
-                eventRules: [
-                    ""
-                ],
-                cordinatorsContact: [
-                    {
-                        name: 'Paridhi Gandhi',
-                        contact: '6351396609'
-                    },
-                    {
-                        name: 'Dhairya Jani ',
-                        contact: '6355399770'
-                    },
-                ],
-                facultyContact: [
-                    {
-                        name: 'Sonupriya Roy',
-                        contact: '8511611551'
-                    },
-                ],
-                pricePool: {
-                    first: '2500',
-                    second: '2000',
-                    third: '1500'
-                },
-            },
+            
             {
                 subEventId: 7,
                 subEventName: 'innovative mania',
-                eventLogo: 'math/math.png',
+                eventLogo: 'sub/17.png',
                 eventDescription: "We welcome new innovative ideas And Provide Stage For the Students So they can Perform their Innovative Ideas & Represent Their Models.",
                 "eventRules": [
                     "The project may be undertaken by individual student or in group not exceeding three members.",
@@ -1389,51 +1567,12 @@ const Events = [
                     third: '2000'
                 },
             },
-            {
-                subEventId: 9,
-                subEventName: 'Food Fiesta',
-                eventLogo: 'math/math.png',
-                eventDescription: "It is a both food competition and show event.",
-                "eventRules": [
-                    "A team should contain 2 to 4 member.",
-                    "Token fees of Rs 100 has to be paid by interested team.",
-                    "The project may be undertaken by individual student or in group not exceeding three members.",
-                    "There will be 2 stage assessments of Projects for final selection. I. PHASE I, which is Pre-assessment stage, Based on the project abstract submitted by you. II. PHASE II which is final assessment stage, Based on Video demonstration of working of project send by you.",
-                    "The participants will have to send their Project abstract on or before 10 march 2022, 4:00 PM to hkp01@ganpatuniversity.ac.in with the Title of your project.",
-                    "There should be a title, name of team members, college name, email address and mobile number at the top of the abstract.",
-                    "The abstract will be selected on the basis of; I. Addresses the critical challenges of the current health care scenario. II. Innovation - either replacing the current technology or your own idea. III. Economic and feasible aspects.",
-                    "After the selection of the abstract, the participants must make a video demonstrating the working of their project and send it in CD/DVD on or before 10 march 2024, 4:00 PM to the event coordinator.",
-                    "Shortlisted projects for participation in the competition will be informed by e-mail & published in our website from time to time.",
-                    "You must Give your Requirements list in Advanced."
-                ],
-                cordinatorsContact: [
-                    {
-                        name: 'Paridhi Gandhi',
-                        contact: '6351396609'
-                    },
-                    {
-                        name: 'Dhariya Jani',
-                        contact: '6355399770'
-                    },
-                ],
-                facultyContact: [
-                    {
-                        name: 'Nidhi G. Patel',
-                        contact: '8128684301'
-                    },
-                ],
-                pricePool: {
-                    first: '2500',
-                    second: '2000',
-                    third: '1500'
-                },
-            },
             
             
             {
                 subEventId: 10,
                 subEventName: 'TECHNO WORKSHOP',
-                eventLogo: 'math/math.png',
+                eventLogo: 'sub/28.png',
                 eventDescription: "Dive into the world of interconnected devices at our technical workshop on the Internet of Things (IoT). Learn how to harness the power of IoT to create innovative solutions, connect devices, and gather meaningful data for improved decision-making. Gain hands-on experience with IoT hardware and software, and explore the endless possibilities of this rapidly evolving field.  ",
                 "eventRules": [
                     "Registration will be based on first come first serve basis.",
@@ -1481,7 +1620,7 @@ const Events = [
             {
                 "subEventId": 1,
                 "subEventName": "Webathon",
-                "eventLogo": "math/1536.png",
+                "eventLogo": "sub/31.jpg",
                 "eventDescription": "The Webathon event presents an exciting opportunity for coders of all skill levels to showcase their talents in a basic website competition. Participants will utilize their HTML, CSS, and JavaScript knowledge to design and develop functional and creative websites within a specified time frame.",
                 "eventRules": [
                     "Participants enrolled in Diploma Studies and interested in showcasing their skills in website development are invited to compete in this event.",
@@ -1518,7 +1657,7 @@ const Events = [
             {
                 "subEventId": 40,
                 "subEventName": "CAD Cam",
-                "eventLogo": "math/1536.png",
+                "eventLogo": "sub/35.jpg",
                 "eventDescription": "This event is for those students who are proficient in software like AutoCAD and want to pursue their job / business in the design / drafting department of industry.",
                 "eventRules": [
                     "Students participating in this event must be proficient in AutoCAD (2D & 3D).",
@@ -1553,7 +1692,7 @@ const Events = [
             {
                 "subEventId": 43,
                 "subEventName": "TechnoHunt",
-                "eventLogo": "math/1536.png",
+                "eventLogo": "sub/44.jpg",
                 "eventDescription": "Embark on a journey of discovery and problem-solving with our Technical Treasure Hunt! This thrilling event combines elements of technology, puzzles, and teamwork as participants race against the clock to uncover hidden clues, solve technical challenges, and unlock the ultimate prize.",
                 "eventRules": [
                     "1. Participants eager to put their puzzle-solving and technical skills to the test are invited to join the Technical Treasure Hunt.",
@@ -1589,7 +1728,7 @@ const Events = [
             {
                 "subEventId": 44,
                 "subEventName": "Drone Workshop and Competition",
-                "eventLogo": "math/1536.png",
+                "eventLogo": "sub/27.png",
                 "eventDescription": "The event is divided into two parts, the first part is for students who want to learn about drones and their applications while the second part is a drone competition in which drone pilots from across the state are invited to participate.",
                 "eventRules": [
                     "1. Students who just want to learn about drones and its applications can also participate in this event; attending the drone workshop is not necessary to participate in the drone competition. There is a prize for the students who win the drone competition while a certificate will be provided to the students who participate in the workshop.",
@@ -1622,7 +1761,37 @@ const Events = [
                     "third": "1000"
                 },
             },
-
+            {
+                "subEventId": 47,
+                "subEventName": "Minute To Win It",
+                "eventLogo": "sub/54.jpg",
+                "eventDescription": "We need people full of confidence and interest. Complete simple task in a time span to win it.Compete with others and complete the task before or within 1 minute.The tasks will be given on the spot which the participant have to complete in the given time span.Violation of the rule given will lead to disqualification.There can be multiple rounds depending on number of participants. ",
+                "eventRules": [
+                    "Rules of the task will be declared in spot.",
+                ],
+                "cordinatorsContact": [
+                    {
+                        "name": "Isha Patel",
+                        "contact": "9586822850",
+                    },
+                    {
+                        "name": "Vivek Durga",
+                        "contact": "9182740234",
+                    }
+                ],
+                "facultyContact": [
+                    {
+                        "name": "Prof. Anso Christian",
+                        "contact": "9624179753",
+                    }
+                ],
+                "pricePool": {
+                    "first": "3000",
+                    "second": "2000",
+                    "third": "1000"
+                },
+            },
+            
         ]
     },
 ]

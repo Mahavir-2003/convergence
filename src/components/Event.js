@@ -10,6 +10,8 @@ const Event = () => {
         const subEventId = Number(e.currentTarget.id); // Convert id to number
         const subEvent = mainEvent.subEvents.find((subEvent) => subEvent.subEventId === subEventId);
         setSubEvent(subEvent);
+        // scroll user window automatically by 
+        window.scrollBy(0, window.innerHeight / 2);
     }
 
     const handleMainEventClick = (e) => {
@@ -17,6 +19,10 @@ const Event = () => {
         const event = Events.find((event) => event.EventId === eventId);
         setMainEvent(event);
         setSubEvent(event.subEvents[0]);
+        // scroll user window automatically by +50vh 
+        window.innerWidth < 768 && window.scrollBy(0, window.innerHeight + 100);
+        // scroll user window automatically by 50vh if user is on desktop
+        window.innerWidth > 768 && window.scrollBy(0, window.innerHeight / 2);
     }
 
     return (
@@ -98,7 +104,7 @@ const Event = () => {
                     <p className=' w-[90dvw] sm:w-[100%]  text-justify font-light text-lg md:text-2xl opacity-70'>{subEvent.eventDescription}</p>
                 </div>
                 <div className=' w-[90dvw] sm:w-[100%] xl:w-[50%] flex flex-col justify-between items-start'>
-                    <p className=' text-2xl font-Osiris mb-8 underline mt-6'>* Rules & Regulations</p>
+                    <p className=' text-2xl font-Osiris mb-8 underline mt-6 text-center w-full sm:text-start'>Rules & Regulations</p>
                     <ul className=' list-inside list-disc text-xl'>
                         {subEvent.eventRules.map((rule, index) => {
                             return (
@@ -106,7 +112,7 @@ const Event = () => {
                             )
                         })}
                     </ul>
-                    <p className=' text-2xl font-Osiris mb-8 mt-8 underline'>* Cordinator Contact</p>
+                    <p className=' text-2xl font-Osiris mb-8 mt-8 underline text-center w-full sm:text-start'>Cordinator Contact</p>
                     <ul className=' list-inside list-disc text-xl'>
                         {subEvent.cordinatorsContact.map((contact, index) => {
                             return (
@@ -114,7 +120,7 @@ const Event = () => {
                             )
                         })}
                     </ul>
-                    <p className=' text-2xl font-Osiris mb-8 mt-8 underline'>* Faculty Contact</p>
+                    <p className=' text-2xl font-Osiris mb-8 mt-8 underline text-center w-full sm:text-start'>Faculty Contact</p>
                     <ul className=' list-inside list-disc text-xl'>
                         {subEvent.facultyContact.map((contact, index) => {
                             return (

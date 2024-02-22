@@ -3,7 +3,7 @@ import React from 'react'
 const Details = () => {
     return (
         <div className=' w-full flex justify-center items-center bg-[#111] py-16 pt-24'>
-            <div className='count mb-[100px] text-white lg:flex justify-between items-center w-[90%]'>
+            <div className='count mb-[60px] text-white lg:flex justify-between items-center w-[90%]'>
                 <div className=' text-3xl sm:text-4xl lg:text-4xl xl:text-6xl font-bold  flex justify-center items-center flex-col flex-1 sm:p-10'>
                     <p className='text-green-300 font-Hyperion my-4 '>Objective</p>
                     <p className=' font-medium text-xs sm:text-lg text-center capitalize'>To give new aspiring students and developers, an opportunity to achieve excellence and fight it out in newer, smarter and more challenging technical problem statements.</p>
