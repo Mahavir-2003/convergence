@@ -10,6 +10,17 @@ const teamData = [
     "team/9.jpg",
     "team/10.jpg",
     "team/11.jpg",
+    "team/12.JPG",
+    "team/13.jpg",
+    "team/14.jpg",
+    "team/15.jpg",
+    "team/16.jpg",
+    "team/17.jpg",
+    "team/18.jpg",
+    "team/19.jpg",
+    "team/20.jpg",
+    "team/21.jpg",
+    "team/22.jpg",
 ];
 
 export default teamData;

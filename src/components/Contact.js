@@ -32,7 +32,7 @@ const Contact = () => {
                 </div>
             </footer>
             <div className=' w-full text-center text-white font-light text-xl opacity-60 pb-10'>Copyright © 2024 Convergence. All Rights Reserved.</div>
-            <div className=' w-full text-center text-black bg-[#86efac] font-normal tracking-wide text-xl py-3 px-12 lg::px-0'>Crafted with a sprinkle of magic (and maybe some caffeine!) ✨ by <img className=" rounded-full w-[40px] mx-1 aspect-square inline-block " alt="mahavir" src={require(`../assets/images/events/team/10.jpg`)}/><span className=' font-medium opacity-80  hover:opacity-100 duration-100'><a href='https://mhvr.vercel.app/' target='_blank' rel="noreferrer">@Mahavir Patel</a></span></div>
+            <div className=' w-full text-center text-black bg-[#86efac] font-normal tracking-wide text-lg py-1 px-12 lg::px-0'>Created by <span className=' font-medium opacity-80  hover:opacity-100 duration-100'><a href='https://mhvr.vercel.app/' target='_blank' rel="noreferrer">@Mahavir Patel</a></span></div>
         </div>
     )
 }
