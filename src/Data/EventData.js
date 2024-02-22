@@ -484,7 +484,7 @@ const Events = [
             {
                 subEventId: 24,
                 subEventName: 'Circuit assembly',
-                eventLogo: 'math/math.png',
+                eventLogo: 'sub/math.png',
                 eventDescription: 'Basic Electrical Circuit Making & Assembly ',
                 eventRules: [
                     "Rules & Regulations:",

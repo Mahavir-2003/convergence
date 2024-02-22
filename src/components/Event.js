@@ -46,8 +46,8 @@ const Event = () => {
                 return (
                     <div id={Event.EventId}
                         onClick={handleMainEventClick}
-                        className={`rounded-tl-3xl h-[100px] sm:h-[130px] lg:h-[150px] rounded-br-3xl w-full overflow-hidden  p-2  ${mainEvent.EventId === Event.EventId ? ' border-2 border-dashed border-green-300' : ''}`}>
-                    <img className='h-full w-full object-fill aspect-video rounded-tl-xl rounded-br-xl' src={require(`../assets/images/events/${Event.MajorEventLogo}`)} alt="eventLogo"/>
+                        className={`rounded-full  overflow-hidden  p-2  ${mainEvent.EventId === Event.EventId ? ' border-2 border-dashed border-green-300' : ''}`}>
+                    <img className='lg:h-[250px] lg:w-[250px] object-cover aspect-square rounded-full' src={require(`../assets/images/events/${Event.MajorEventLogo}`)} alt="eventLogo"/>
                     </div>
                 )
                  })}
@@ -80,17 +80,17 @@ const Event = () => {
                              <div className='price-container flex justify-around flex-col sm:flex-row gap-y-7 mt-6 w-full'>
                                 <div className=' p-1 pt-0 border border-white/50 flex flex-col items-center relative'>
                                     <p className='sm:text-lg text-xs mx-10 text-center translate-y-[-50%] font-semibold tracking-widest bg-[#111] inline-block px-4 font-Hyperion'>First Price</p>
-                                    <p className='sm:text-3xl text-2xl py-2 font-Osiris text-center text-[#252525] tracking-widest bg-[#d4af37] block w-full'>₹{subEvent.pricePool.first}</p>
+                                    <p className='sm:text-3xl text-2xl py-2 font-Osiris text-center text-[#252525] tracking-widest bg-[#d4af37] block w-full'>₹3000</p>
                                 </div>
                              </div>
                              <div className='price-container flex justify-around flex-col sm:flex-row gap-y-7 mt-6 w-full'>
                              <div className=' p-1 pt-0 border border-white/50 flex flex-col items-center relative'>
                                     <p className='sm:text-lg text-xs mx-10 text-center translate-y-[-50%] font-semibold tracking-widest bg-[#111] inline-block px-4 font-Hyperion'>Second Price</p>
-                                    <p className='sm:text-3xl text-2xl py-2 font-Osiris text-center text-[#252525] tracking-widest bg-[#C0C0C0] block w-full'>₹{subEvent.pricePool.second}</p>
+                                    <p className='sm:text-3xl text-2xl py-2 font-Osiris text-center text-[#252525] tracking-widest bg-[#C0C0C0] block w-full'>₹2000</p>
                                 </div>
                                 <div className=' p-1 pt-0 border border-white/50 flex flex-col items-center relative'>
                                     <p className='sm:text-lg text-xs mx-10 text-center translate-y-[-50%] font-semibold tracking-widest bg-[#111] inline-block px-4 font-Hyperion'>Third Price</p>
-                                    <p className='sm:text-3xl text-2xl py-2 font-Osiris text-center text-[#252525] tracking-widest bg-[#c58653] block w-full'>₹{subEvent.pricePool.third}</p>
+                                    <p className='sm:text-3xl text-2xl py-2 font-Osiris text-center text-[#252525] tracking-widest bg-[#c58653] block w-full'>₹1000</p>
                                 </div>
                              </div>
                         </div>
@@ -109,6 +109,14 @@ const Event = () => {
                     <p className=' text-2xl font-Osiris mb-8 mt-8 underline'>* Cordinator Contact</p>
                     <ul className=' list-inside list-disc text-xl'>
                         {subEvent.cordinatorsContact.map((contact, index) => {
+                            return (
+                                <a href={`tel:${contact.contact}`} className='opacity-70 hover:opacity-100 hover:cursor-pointer duration-200'><li key={index} className='pb-4'>{contact.name + " - " + contact.contact}</li></a>
+                            )
+                        })}
+                    </ul>
+                    <p className=' text-2xl font-Osiris mb-8 mt-8 underline'>* Faculty Contact</p>
+                    <ul className=' list-inside list-disc text-xl'>
+                        {subEvent.facultyContact.map((contact, index) => {
                             return (
                                 <a href={`tel:${contact.contact}`} className='opacity-70 hover:opacity-100 hover:cursor-pointer duration-200'><li key={index} className='pb-4'>{contact.name + " - " + contact.contact}</li></a>
                             )

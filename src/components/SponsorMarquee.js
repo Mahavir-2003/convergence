@@ -11,7 +11,7 @@ const SponsorMarquee = () => {
             {
                 sponsorData.map((sponsorImg, index) => {
                     return (
-                        <img key={index} src={sponsorImg} alt="sponsor" className='mx-10 aspect-video max-w-[170px] md:max-w-[250px]'/>
+                        <img key={index} src={require(`../assets/images/events/${sponsorImg}`)} alt="sponsor" className=' object-contain mx-10 aspect-video max-w-[170px] md:max-w-[250px]'/>
                     )
                 })
             }
