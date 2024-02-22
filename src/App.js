@@ -18,7 +18,7 @@ function App() {
       <Collages />
       <About />
       {/* <Events /> */}
-      <Event />
+      {/* <Event /> */}
       <SponsorMarquee />
       <Details />
       <Contact />

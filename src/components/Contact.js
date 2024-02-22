@@ -4,8 +4,8 @@ const Contact = () => {
     return (
         <div className='bg-[#111] w-full'>
             <div className=' pb-[200px] w-full flex justify-center items-center flex-col '>
-                <h1 className='text-3xl sm:text-4xl md:text-7xl font-Osiris text-white text-center'>Grow<span className='text-blue-500'>&nbsp; Together</span></h1>
-                <h1 className='text-3xl sm:text-4xl md:text-7xl font-Osiris text-white text-center'>for<span className='text-green-500'>&nbsp; Tomorrow</span></h1>
+                <h1 className='text-3xl sm:text-4xl md:text-7xl font-Osiris text-white text-center'>When<span className='text-blue-500'>&nbsp; Imagination</span></h1>
+                <h1 className='text-3xl sm:text-4xl md:text-7xl font-Osiris text-white text-center'>Meets<span className='text-green-500'>&nbsp; Innovation</span></h1>
             </div>
             <footer className=' w-full flex justify-center items-center'>
                 <div className=' w-full lg:w-[80%] mb-[50px]'>
@@ -17,10 +17,8 @@ const Contact = () => {
                         </div>
                         <div>
                             <h1 className='text-2xl font-Osiris mb-4'>Contact Us</h1>
-                            <p className='pb-2 md:max-w-[250px] font-normal text-lg opacity-80 hover:opacity-100 duration-100'><a href="tel:+91 70045 18816">+91 70045 18816</a></p>
-                            <p className='pb-2 md:max-w-[250px] font-normal text-lg opacity-80 hover:opacity-100 duration-100'><a href="tel:+91 94096 00712">+91 94096 00712</a></p>
-                            <p className='pb-2 md:max-w-[250px] font-normal text-lg opacity-80 hover:opacity-100 duration-100'><a href="tel:+91 72268 63570">+91 72268 63570
-                            </a></p>
+                            <p className='pb-2 md:max-w-[250px] font-normal text-lg opacity-80 hover:opacity-100 duration-100'><a href="tel:+916353479992">6353479992 - Vatsal Shah</a></p>
+                            <p className='pb-2 md:max-w-[250px] font-normal text-lg opacity-80 hover:opacity-100 duration-100'><a href="tel:+91 94096 00712">7990917445 - Smit Patel</a></p>
                             <p className='pb-2 md:max-w-[250px] font-normal text-lg opacity-80 hover:opacity-100 duration-100'><a href="mailto:convergence.uvpce@ganpatuniversity.ac.in">help@convergence.in</a></p>
                         </div>
                         <div>
@@ -34,7 +32,7 @@ const Contact = () => {
                 </div>
             </footer>
             <div className=' w-full text-center text-white font-light text-xl opacity-60 pb-10'>Copyright © 2024 Convergence. All Rights Reserved.</div>
-            <div className=' w-full text-center text-black bg-[#86efac] font-normal tracking-wide text-xl py-3 px-12 lg::px-0'>Crafted with a sprinkle of magic (and maybe some caffeine!) ✨ by <span className=' font-medium opacity-80  hover:opacity-100 duration-100'><a href='https://mhvr.vercel.app/' target='_blank' rel="noreferrer">@Mahavir Patel</a></span></div>
+            <div className=' w-full text-center text-black bg-[#86efac] font-normal tracking-wide text-xl py-3 px-12 lg::px-0'>Crafted with a sprinkle of magic (and maybe some caffeine!) ✨ by <img alt="mahavir" src="../assets/images/events/team/2.jpg"/><span className=' font-medium opacity-80  hover:opacity-100 duration-100'><a href='https://mhvr.vercel.app/' target='_blank' rel="noreferrer">@Mahavir Patel</a></span></div>
         </div>
     )
 }

@@ -11,7 +11,7 @@ const Landing = () => {
 
   useEffect(() => {
     const interval = setInterval(() => {
-      const eventDate = new Date('2024-02-18T10:00:00').getTime();
+      const eventDate = new Date('2024-03-14T01:00:00').getTime();
       const currentDate = new Date().getTime();
       const remainingTime = eventDate - currentDate;
 

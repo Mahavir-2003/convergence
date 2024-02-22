@@ -11,7 +11,7 @@ const TeamMarquee = () => {
             {
                 teamData.map((sponsorImg, index) => {
                     return (
-                        <img key={index} src={sponsorImg} alt="sponsor" className='mx-10 aspect-square object-cover rounded-full max-w-[140px] md:max-w-[200px]'/>
+                        <img key={index} src={require(`../assets/images/events/${sponsorImg}`)} alt="sponsor" className='mx-10 aspect-square object-cover rounded-full max-w-[140px] md:max-w-[200px]'/>
                     )
                 })
             }
