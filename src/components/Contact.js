@@ -18,8 +18,6 @@ const Contact = () => {
                         <div>
                             <h1 className='text-2xl font-Osiris mb-4'>Contact Us</h1>
                             <div className='flex justify-start items-center gap-x-3'>
-                            <p className='pb-2 md:max-w-[250px] font-normal text-lg opacity-80 hover:opacity-100 duration-100'><a href="tel:+916353479992">Vatsal Shah <br />6353479992 </a></p>
-                            <p className='pb-2 border-l border-white pl-3 md:max-w-[250px] font-normal text-lg opacity-80 hover:opacity-100 duration-100'><a href="tel:+91 94096 00712">Smit Patel<br />7990917445 </a></p>
                             </div>
                             <p className='pb-2 md:max-w-[250px] font-normal text-lg opacity-80 hover:opacity-100 duration-100'><a href="mailto:convergence.uvpce@ganpatuniversity.ac.in">help@convergence.in</a></p>
                         </div>
